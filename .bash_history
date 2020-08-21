@@ -241,3 +241,6 @@ git push -u origin master
 git push -u origin master
 git pull
 git init
+git add --all
+git commit -m 'initial commit'
+git remote add origin https://github.com/lawandanwer/hello.git
