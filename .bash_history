@@ -230,3 +230,14 @@ ls
 git config --global user.email "lanwer2@huskers.unl.edu"
 git config --global user.name "lanwer"
 git init
+git add --all
+cd
+ls
+git init
+git push -u origin master
+git commit -m 'initial commit'
+git remote add origin https://github.com/lawandanwer/hello.git
+git push -u origin master
+git push -u origin master
+git pull
+git init
