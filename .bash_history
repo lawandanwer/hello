@@ -254,3 +254,30 @@ git push -u origin master
 git init
 git commit -m "first commit"
 git commit -m 'first commit'
+git add --all
+git commit -m 'initial commit'
+git remote add origin git@github.com:lawandanwer/hello.git
+git push -u origin 
+git remote
+git remote set-url origin https://github.com/lawandanwer/hello.git
+git push -u origin master
+git add .gitignore
+a.out
+git add.gitignore
+git add .gitignore
+ls
+cd misc
+ls
+ls
+git add .gitignore
+git commit -m 'added gitignore file'
+git push -u origin master
+cd ..
+ls
+git push -u origin master
+cd
+cd ~
+git init
+ls
+cd hello
+cd hello
