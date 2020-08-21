@@ -244,3 +244,13 @@ git init
 git add --all
 git commit -m 'initial commit'
 git remote add origin https://github.com/lawandanwer/hello.git
+git add --all
+git commit -m 'intial commit'
+git remote add origin https://github.com/lawandanwer/hello.git
+git remote -v
+git push -u origin master
+git pull
+git push -u origin master
+git init
+git commit -m "first commit"
+git commit -m 'first commit'
